@@ -20,9 +20,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Salam {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+🔺Texnologiya Kanalımız - @DarkWebAzerbaijan🔺
 
-Texnologiya Kanalımız - @DarkWebAzerbaijan
+🔺Texnologiya Kanalımız - @DarkWebAzerbaijan🔺
 
 Dark User Bot: [Deploy Link](https://heroku.com/deploy?template=https://github.com/DarkUserBot-Team/DarkRoot),
 buradan yükləyə bilərsiniz...
