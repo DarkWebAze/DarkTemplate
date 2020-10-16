@@ -18,17 +18,18 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Salam {}, Mən {}! Əmrlər haqqında sualınız varsa /help yazın... 
+hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-[Bu insan](tg://user?id={}) tərəfindən yaradılan Dark User Robotam.
+im a group manager bot maintained by  [this person](tg://user?id={}).
 
-Texnologiya Kanalımız - @DarkWebAzerbaijan
+My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
 
-Dark User Bot Kanalımız - @Dark_UserBot
+This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
+you can create clone same like me..
 
-Daha çox əmrlər üçün /help yazın...
+For more commands click /help...
 
-**Dark Web Azerbaijan.**
+**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
 """
 
