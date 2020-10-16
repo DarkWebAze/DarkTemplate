@@ -36,12 +36,11 @@ Daha çox əmr üçün /help yazın...
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Salam! Mən *{}*.
 
-*Main* available commands:
+*Əsas* əmrlər siyahısı:
  - /start: Start the bot...
  - /help: help....
- - /donate: To find out more about donating!
  - /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
