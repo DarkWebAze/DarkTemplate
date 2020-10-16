@@ -22,14 +22,14 @@ Salam {}, my name is {}! if you have any questions about how to use me please gi
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-Texnologiya Kanalımız: @DarkWebAzerbaijan
+Texnologiya Kanalımız - @DarkWebAzerbaijan
 
 Dark User Bot: [Deploy Link](https://heroku.com/deploy?template=https://github.com/DarkUserBot-Team/DarkRoot),
 buradan yükləyə bilərsiniz...
 
-For more commands click /help...
+Əmrlər haqqında məlumat üçün /help yazın...
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+**🔰Dark Web Azerbaijan🔰**
 
 """
 
