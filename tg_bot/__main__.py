@@ -39,15 +39,15 @@ HELP_STRINGS = """
 Salam! Mən *{}*.
 
 *Əsas* əmrlər siyahısı:
- - /start: Start the bot...
- - /help: help....
- - /settings:
-   - in PM: To find out what SETTINGS you have set....
-   - in a group:
+ - /start: başlat...
+ - /help: kömək....
+ - /settings: ayarlar...
+   - şəxsidə
+   - qrupda:
 
 {}
-And the following:
-""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
+Və aşağıdakı əmrlər:
+""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nBütün əmrlər  / vəya ! ilə işlənə bilər...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
