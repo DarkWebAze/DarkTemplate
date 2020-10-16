@@ -24,8 +24,8 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 Texnologiya Kanalımız - @DarkWebAzerbaijan
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+Dark User Bot: [Deploy Link](https://heroku.com/deploy?template=https://github.com/DarkUserBot-Team/DarkRoot),
+Daha çox məlumat üçün: @Dark_UserBot
 
 For more commands click /help...
 
