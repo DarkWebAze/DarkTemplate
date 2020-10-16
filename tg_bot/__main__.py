@@ -18,11 +18,12 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Salam {}, Mən {}! Əmrlər haqqında sualınız olarsa /help yazın...
+Salam {}, 
+Mən {}! Əmrlər haqqında sualınız olarsa /help yazın...
 
 🔺Texnologiya Kanalımız - @DarkWebAzerbaijan🔺
 
-🔺Texnologiya Kanalımız - [@Dark_UserBot🔺](https://t.me/Dark_UserBot)
+🔺DarkUserBot Kanalımız - [@Dark_UserBot🔺](https://t.me/Dark_UserBot)
 
 Dark User Bot: [Deploy Link](https://heroku.com/deploy?template=https://github.com/DarkUserBot-Team/DarkRoot),
 buradan yükləyə bilərsiniz...
