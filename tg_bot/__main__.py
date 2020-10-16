@@ -25,7 +25,7 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 Texnologiya Kanalımız - @DarkWebAzerbaijan
 
 Dark User Bot: [Deploy Link](https://heroku.com/deploy?template=https://github.com/DarkUserBot-Team/DarkRoot),
-Daha çox məlumat üçün: @Dark_UserBot
+daha çox məlumat üçün: @Dark_UserBot
 
 For more commands click /help...
 
