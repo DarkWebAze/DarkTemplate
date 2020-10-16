@@ -22,7 +22,7 @@ Salam {}, my name is {}! if you have any questions about how to use me please gi
 
 🔺Texnologiya Kanalımız - @DarkWebAzerbaijan🔺
 
-🔺Texnologiya Kanalımız - @DarkWebAzerbaijan🔺
+🔺DarkUserBot Kanalımız - @Dark_UserBot🔺
 
 Dark User Bot: [Deploy Link](https://heroku.com/deploy?template=https://github.com/DarkUserBot-Team/DarkRoot),
 buradan yükləyə bilərsiniz...
