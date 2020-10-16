@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Salam {}, my name is {}! if you have any questions about how to use me please give me /help... 
+Salam {}, Mən {}! Əmrlər haqqında sualınız olarsa /help yazın...
 
 🔺Texnologiya Kanalımız - @DarkWebAzerbaijan🔺
 
